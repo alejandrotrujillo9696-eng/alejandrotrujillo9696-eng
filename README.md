@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hey I'a Alejandro
 
 * i am a Frontend Developer from [Huila-Colombia]🇨🇴
